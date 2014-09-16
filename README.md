@@ -19,10 +19,10 @@ Markdown D&D will create Markdown character sheets according the following compo
 ```
 # {character-name}
 
-- **STR**: {str-modifier} ({str-value})
-- **DEX**: {dex-modifier} ({dex-value})
-- **CON**: {con-modifier} ({con-value})
-- **INT**: {int-modifier} ({int-value})
-- **WIS**: {wis-modifier} ({wis-value})
-- **CHA**: {cha-modifier} ({cha-value})
+**STR** {str-value} ({str-modifier})
+**DEX** {dex-value} ({dex-modifier})
+**CON** {con-value} ({con-modifier})
+**INT** {int-value} ({int-modifier})
+**WIS** {wis-value} ({wis-modifier})
+**CHA** {cha-value} ({cha-modifier})
 ```
