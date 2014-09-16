@@ -1,20 +1,14 @@
 # Chardown
 
-Chardown is a command-line tool for converting form-filled D&D 5e PDF character sheets to conventionally-composed Markdown (and back again from Markdown to PDF).
+Chardown is a command-line tool for converting conventionally-formatted Markdown character sheets to form-filled PDF character sheets.
 
 ## Usage
 
-To convert a form-filled character sheet to Markdown:
-
-`chardown.exe {path-to-existing-character-sheet.pdf} {path-to-new-character-sheet.markdown}`
-
-To convert a Markdown character sheet (that meets the expected composition) to a form-filled PDF:
-
 `chardown.exe {path-to-existing-character-sheet.markdown} {path-to-new-character-sheet.pdf}`
 
-## Markdown Character Sheet Expected Composition
+## Markdown Character Sheet Format
 
-Chardown will create Markdown character sheets according the following composition, and when converting an existing Markdown file to PDF expect the same composition.
+Chardown expects Markdown character sheets to be formatted as follows:
 
 ```
 # {character-name}
