@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Character.cs" />
+    <Compile Include="Functions\Convert.cs" />
     <Compile Include="Functions\WritePdf.cs" />
     <Compile Include="Functions\WriteMarkdown.cs" />
     <Compile Include="Functions\ReadPdf.cs" />
