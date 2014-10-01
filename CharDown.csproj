@@ -47,8 +47,6 @@
     <Compile Include="Character.cs" />
     <Compile Include="Functions\Convert.cs" />
     <Compile Include="Functions\WritePdf.cs" />
-    <Compile Include="Functions\WriteMarkdown.cs" />
-    <Compile Include="Functions\ReadPdf.cs" />
     <Compile Include="Functions\ReadMarkdown.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
