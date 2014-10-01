@@ -12,7 +12,7 @@ namespace CharDown
         {
             if (args.Length != 2)
             {
-                Console.WriteLine("Usage: chardown.exe {source} {destination}");
+                Console.WriteLine("Usage: chardown.exe {source.markdown} {destination.pdf}");
                 Environment.Exit(1);
             }
             
